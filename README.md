@@ -41,3 +41,12 @@
 <h3> Instalaremos la cloud </h3>
 <p> Instalaremos la Owncloud desde este enlace: </p>
 <a href="https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip">Instalar Owncloud</a>
+<p> Despues de descargar la Owncloud le cambiaremos el nombre a app-web, seguidamente utilizaremos el siguiente comando: sudo cp ~/Baixades/app-web.zip /var/www/html</p>
+<p> Cambiaremos la palabra "Baixades" por "Descargas" </p>
+<h3> Entraremos al directorio </h3>
+<p> Con el comando cd /var/www/html </p>
+<h3> Descomprimimos el fichero </h3>
+<p> Utilizaremos el comando sudo unzip app-web.zip </p>
+<p> Esto lo que hará es descomprimir el archivo </p>
+<p> Copiaremos los ficheros dentro de la carpeta html utilizando el comando sudo cp -R app-web/. /var/www/html </p>
+<p> El nombre de app-web abría que cambiarlo por el nombre de la carpeta creada anteriormente, el cual es Owncloud </p>
