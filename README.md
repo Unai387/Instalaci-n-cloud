@@ -82,3 +82,10 @@
  <p> Reinciamos el apache con este comando: "sudo service apache2 restart" y ya podriamos inciar sesión en el Owncloud </p>
  <p> Por último entramos a la owncloud y ponemos los siguientes datos </p>
  <a href="http://localhost/">hhtp://localhost.com</a>
+<p> Ponemos los siguientes datos: </p>
+<ul>
+  <li> Usuario: Usuario </il>
+  <li> Contraseña: Password </li>
+  <li> Base de datos: bbdd </li>
+  <li> Dominio: localhost </li>
+</ul>
