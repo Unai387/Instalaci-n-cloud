@@ -8,7 +8,7 @@
 <img src="Captura de pantalla 2024-11-13 215646.png" alt="Contraseña update">
 <h3> sudo apt upgrade </h3>
 <p> Cuando ejecutemos el siguiente comando nos pedira responder s o n, responderemos s, que es si</p>
-
+<img src="Captura de pantalla 2024-11-13 215800.png" alt="Pregunta upgrade">
 <h3> Paso 2 </h3>
 <h3> Instalar apache2 </h3>
 <p> sudo apt install -y apache2 </p>
@@ -39,6 +39,7 @@
 <p> Saldremos del mysql utilizando el comando exit </p>
 <h3> Probaremos la conexión de la base de datos </h3>
 <p> mysql -u usuario -p </p>
+<img src="Captura de pantalla 2024-11-13 215800.png" alt="Pregunta upgrade">
 <p> La contraseña es "password" </p>
 <h3> Instalaremos la cloud </h3>
 <p> Instalaremos la Owncloud desde este enlace: </p>
