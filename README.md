@@ -5,6 +5,7 @@
 <h4> Utilizaremos los siguientes comandos para actualizar la maquina </h4>
 <h3> sudo apt update </h3>
 <p> Despues de ejecutar el comando sudo apt upgrade nos pedira una contraseña, la cual es Usuario </p>
+
 <h3> sudo apt upgrade </h3>
 <p> Cuando ejecutemos el siguiente comando nos pedira responder s o n, responderemos s, que es si</p>
 <h3> Paso 2 </h3>
