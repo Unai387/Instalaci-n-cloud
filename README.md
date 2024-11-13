@@ -53,3 +53,5 @@
 <p> Esto lo que hará es descomprimir el archivo </p>
 <p> Copiaremos los ficheros dentro de la carpeta html utilizando el comando sudo cp -R app-web/. /var/www/html </p>
 <p> El nombre de app-web abría que cambiarlo por el nombre de la carpeta creada anteriormente, el cual es Owncloud </p>
+<p> Borraremos la carpeta que s eha creaod cuando hemos hecho el unzip con este comando: sudo rm -rf app-web/</p>
+<p> Borramos el archivo index.html con este comando: sudo rm -rf /var/www/html/index.html </p>
