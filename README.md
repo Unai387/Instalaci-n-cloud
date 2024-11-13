@@ -1,5 +1,5 @@
-# Instalación clouds #
-<h2> Explicare paso a paso como realizar la instalación de la Owncloud </h2>
+# Configuración clouds #
+<h2> Explicare paso a paso como realizar la configuración de la Owncloud </h2>
 <h3> Paso 1 </h3>
 <h3> Actualizar la maquina </h3>
 <h4> Utilizaremos los siguientes comandos para actualizar la maquina </h4>
